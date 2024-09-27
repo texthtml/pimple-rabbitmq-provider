@@ -5,7 +5,7 @@
     "homepage": "https://github.com/texthtml/pimple-rabbitmq-provider",
     "license": "MIT",
     "require": {
-        "php": "^5.6|^7.0",
+        "php": "8.3.12",
         "pimple/pimple": "^3.0",
         "php-amqplib/rabbitmq-bundle": "^1.11"
     },
